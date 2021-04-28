@@ -14,6 +14,7 @@ namespace Function2
             Console.WriteLine("Git hub");
             Console.WriteLine("Sample git check commit");
             Console.WriteLine("Yash ");
+            Console.WriteLine("prachi Jain");
         }
     }
 }
