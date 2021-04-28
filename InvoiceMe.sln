@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceMe", "InvoiceMe\InvoiceMe.csproj", "{C49EE5A4-4DC4-4862-AC6B-17DC627F9DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Function2", "Function2\Function2.csproj", "{8E538DEE-67B8-4DD4-BB64-A41F9C561DF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{C49EE5A4-4DC4-4862-AC6B-17DC627F9DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C49EE5A4-4DC4-4862-AC6B-17DC627F9DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C49EE5A4-4DC4-4862-AC6B-17DC627F9DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E538DEE-67B8-4DD4-BB64-A41F9C561DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E538DEE-67B8-4DD4-BB64-A41F9C561DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E538DEE-67B8-4DD4-BB64-A41F9C561DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E538DEE-67B8-4DD4-BB64-A41F9C561DF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD2EC9D7-B853-4471-B7BF-6D5548203F3F}
 	EndGlobalSection
 EndGlobal
